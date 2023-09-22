@@ -10,4 +10,3 @@ This project is a JavaScript-based drum kit that allows you to play drum sounds 
 - Play drum sounds by clicking on the on-screen buttons or pressing keys.
 - Each button corresponds to a different drum sound.
 - Visual feedback for key presses and button clicks.
-- Cross-browser compatibility.
